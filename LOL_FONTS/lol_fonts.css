@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Spiegel';
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/blob/main/LOL_FONTS/Spiegel-TTF/Spiegel_TT_Regular.ttf") format("truetype");
+}
+
+@font-face { 
+    font-family: 'Minecraft';
+    font-weight: bold;
+    src: url("https://raw.githubusercontent.com/SmolAlli/Themes/main/Minecraft/resources/minecraft-font/MinecraftBold-nMK1.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/SmolAlli/Themes/main/Minecraft/resources/minecraft-font/MinecraftItalic-R8Mo.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Minecraft';
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/SmolAlli/Themes/main/Minecraft/resources/minecraft-font/MinecraftBoldItalic-1y1e.ttf") format("truetype");
+}
