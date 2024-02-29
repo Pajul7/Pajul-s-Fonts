@@ -1,23 +1,125 @@
+/*############## TTF ###################*/
+/* Spiegel*/
 @font-face {
-    font-family: 'Spiegel';
+    font-family: 'SpiegelTTF';
     src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-TTF/Spiegel_TT_Regular.ttf") format("truetype");
 }
 
 @font-face { 
-    font-family: 'Spiegel';
+    font-family: 'SpiegelTTF';
     font-weight: bold;
     src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-TTF/Spiegel_TT_Bold.ttf") format("truetype");
 }
 
 @font-face {
-    font-family: 'Spiegel';
+    font-family: 'SpiegelTTF';
     font-style: italic;
     src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-TTF/Spiegel_TT_Regular_Italic.ttf") format("truetype");
 }
 
 @font-face {
-    font-family: 'Minecraft';
+    font-family: 'SpiegelTTF';
     font-weight: bold;
     font-style: italic;
     src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-TTF/Spiegel_TT_Bold_Italic.ttf") format("truetype");
 }
+
+/* Beaufort For LOL*/
+
+@font-face {
+    font-family: 'Beaufort';
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Beaufort';
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-Italic.ttf") format("truetype");
+}
+
+@font-face { 
+    font-family: 'Beaufort';
+    font-weight: bold;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-Medium.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Beaufort';
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-MediumItalic.ttf") format("truetype");
+}
+
+@font-face { 
+    font-family: 'Beaufort';
+    font-weight: bolder;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-Bold.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Beaufort';
+    font-weight: bolder;
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-BoldItalic.ttf") format("truetype");
+}
+
+@font-face { 
+    font-family: 'Beaufort';
+    font-weight: lighter;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-Light.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'Beaufort';
+    font-weight: lighter;
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-LightItalic.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: 'BeaufortHeavy';
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-Heavy.ttf") format("truetype");
+}
+@font-face {
+    font-family: 'BeaufortHeavy';
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/BeaufortForLoL-TTF/BeaufortforLOL-HeavyItalic.ttf") format("truetype");
+}
+
+
+
+
+
+
+
+
+
+
+/*############## OTF ###################*/
+
+@font-face {
+    font-family: 'SpiegelOTF';
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-OTF/Spiegel-Regular.otf") format("opentype");
+}
+
+@font-face { 
+    font-family: 'SpiegelOTF';
+    font-weight: bold;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-OTF/Spiegel-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SpiegelOTF';
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-OTF/Spiegel-RegularItalic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: 'SpiegelOTF';
+    font-weight: bold;
+    font-style: italic;
+    src: url("https://raw.githubusercontent.com/Pajul7/Pajul-s-Fonts/main/LOL_FONTS/Spiegel-OTF/Spiegel-BoldItalic.otf") format("opentype");
+}
+
+
+
+
+
+
+
